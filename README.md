@@ -15,7 +15,8 @@ Tools used:
 HTML 5, CSS 2.1 and Bootstrap 5.1.1
 
 References:
-
+https://webdesign.tutsplus.com/categories/parallax-scrolling
+https://www.digitalocean.com/community/tutorials/css-pure-css-parallax
 
 
 ThankYou !!!
